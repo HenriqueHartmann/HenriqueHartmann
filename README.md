@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="left"><img src="https://komarev.com/ghpvc/?username=HenriqueHartmann" alt="Henrique Luiz Hartmann" /></p>
 
 - 📚 I’m currently Studying Information Systems at Instituto Federal Catarinense.
-- 🌱 I’m currently Flutter.
+- 🌱 I’m currently learning Flutter.
 - 💬 I can help you in agile methods (Scrum and Kanban).
 - 😄 I try to improve my English and Java
 - ⚡ I like to watch anime :dolls:
