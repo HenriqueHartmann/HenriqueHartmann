@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </div>
 
 ##
- 
+<!--
 <a href="https://br.linkedin.com/in/henrique-luiz-hartmann-786266185" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link" target="_blank"></a> 
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
