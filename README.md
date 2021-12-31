@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align = "justify"> Hi there, I'm Henrique! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=HenriqueHartmann" alt="Henrique Luiz Hartmann" /></p>
+<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=HenriqueHartmann" alt="Henrique Luiz Hartmann" /></p> -->
 
 - 🔭 I’m currently working on iSolutions
 - 📚 I’m currently Studying Information Systems at Instituto Federal Catarinense.
